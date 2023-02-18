@@ -39,6 +39,10 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 To be able to view the project click on https://github.com/dopiyo85/gallery-app-team-project.git
 
+## Deployed Link
+
+https://team-kubwa-project.onrender.com/
+
 ### License
 
 _The License used is GPL_
